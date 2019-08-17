@@ -13,7 +13,7 @@
   - based off of FRC programming structure
                classes are split into a structure and framework easy for most FRC programmers to understand 
 #### Class Breakdown 
-  - Wildthing.ino
+  - main.cpp
                contains main loop and setup routines 
                
   - Drivetrain.cpp
